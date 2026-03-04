@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PicSwipe — Privacy Policy</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: #0D0D12;
+            color: #E0E0E0;
+            line-height: 1.7;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #FFFFFF;
+            font-size: 32px;
+            margin-bottom: 4px;
+        }
+        .subtitle {
+            color: #8E8E93;
+            font-size: 14px;
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #FFFFFF;
+            font-size: 22px;
+            margin-top: 36px;
+            margin-bottom: 12px;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #1E1928;
+        }
+        h3 {
+            color: #B8A5F8;
+            font-size: 17px;
+            margin-top: 24px;
+            margin-bottom: 8px;
+        }
+        p {
+            margin-bottom: 14px;
+        }
+        ul {
+            margin: 8px 0 14px 24px;
+        }
+        li {
+            margin-bottom: 6px;
+        }
+        strong {
+            color: #FFFFFF;
+        }
+        a {
+            color: #7E59F5;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .contact {
+            margin-top: 8px;
+            color: #7E59F5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p class="subtitle">PicSwipe &middot; Last updated: March 4, 2026</p>
+
+        <h2>Overview</h2>
+        <p>PicSwipe is a mobile application that helps users clean up their photo and video gallery by swiping through media files. This Privacy Policy explains how the app handles your data.</p>
+
+        <h2>Data We Access</h2>
+
+        <h3>Photo &amp; Video Library</h3>
+        <p>PicSwipe requests access to your device's photo and video library to display media files for review. The app reads photos and videos stored on your device so you can decide which ones to keep or delete. Deletion is performed through the operating system's standard API and requires your explicit confirmation.</p>
+
+        <h3>Data Stored Locally</h3>
+        <p>The app stores the following data locally on your device using an embedded database:</p>
+        <ul>
+            <li><strong>Kept IDs</strong> — identifiers of media files you have already reviewed, so they are not shown again in future sessions.</li>
+            <li><strong>Usage statistics</strong> — the number of files deleted, total freed storage space, and session count.</li>
+        </ul>
+        <p>This data never leaves your device and is not transmitted to any server.</p>
+
+        <h2>Third-Party Services</h2>
+
+        <h3>Yandex Mobile Ads</h3>
+        <p>PicSwipe uses the Yandex Mobile Ads SDK to display advertisements. Yandex may collect certain device and usage data in accordance with its own privacy policy. This may include:</p>
+        <ul>
+            <li>Device identifiers (advertising ID)</li>
+            <li>Device model and OS version</li>
+            <li>IP address</li>
+            <li>Ad interaction data</li>
+        </ul>
+        <p>For more information, see the <a href="https://yandex.com/legal/confidential/" target="_blank" rel="noopener">Yandex Privacy Policy</a>.</p>
+
+        <h2>Data We Do NOT Collect</h2>
+        <ul>
+            <li>We do not collect personal information (name, email, phone number).</li>
+            <li>We do not upload your photos or videos to any server.</li>
+            <li>We do not use analytics or tracking services beyond the ad SDK.</li>
+            <li>We do not require user registration or accounts.</li>
+        </ul>
+
+        <h2>Data Deletion</h2>
+        <p>All locally stored data (kept IDs and statistics) can be removed by uninstalling the app. No data is retained on external servers.</p>
+
+        <h2>Children's Privacy</h2>
+        <p>PicSwipe is not directed at children under 13. We do not knowingly collect any personal data from children.</p>
+
+        <h2>Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time. Any changes will be reflected by the "Last updated" date at the top of this page.</p>
+
+        <h2>Contact</h2>
+        <p>If you have questions about this Privacy Policy, please contact us at:</p>
+        <p class="contact"><a href="mailto:gasfull98@gmail.com">gasfull98@gmail.com</a></p>
+    </div>
+</body>
+</html>
